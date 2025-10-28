@@ -261,7 +261,7 @@
       "description": "🔍 Qurey Keword for VOD",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Discount Code：VEUS",
+      "author": "Discount",
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/wuming.VOD.js"
     },
     {
@@ -270,7 +270,7 @@
       "description": "☁️ YUNDUAN MOvies",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Discount Code：VEUS",
+      "author": "Discount",
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/cloud_cinema.js"
     },
     {
